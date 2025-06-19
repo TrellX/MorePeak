@@ -1,0 +1,9 @@
+{
+    "name": "MorePeak",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/TrellX/MorePeak/",
+    "description": "Increase the maximum numbers of players up to 100. Fixes some audio and endgame stats issues.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
